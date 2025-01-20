@@ -1,4 +1,4 @@
-# 03_CodeLab_1
+# 02c_CodeLab_1
 
 - Erzeugen Sie zusätzlich zur Klasse App eine Klasse **Konto**
 - Legen Sie in **Konto** eine int Variable **kontostand** mit dem Anfangswert 10000 an
